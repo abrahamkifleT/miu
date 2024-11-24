@@ -17,9 +17,8 @@ public class StantonMeasure {
     }
 
 
-
     public static void main(String[] args){
-        int [] a = {3,1,1,4};
+        int [] a = {};
         int isStanton = stantonMeasure(a);
         System.out.println(isStanton);
     }
